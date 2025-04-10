@@ -17,8 +17,8 @@ O código está estruturado de forma a ilustrar os princípios da POO, com exemp
 ## Tecnologias Utilizadas
 
 - **Java 11+** (ou versão especificada)
-- **IDE**: IntelliJ IDEA / Eclipse / VSCode
-- **Maven** (se aplicável, para gerenciamento de dependências)
+- **IDE**: VSCode
+- **Maven**
 
 ## Estrutura do Projeto
 
